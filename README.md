@@ -3,7 +3,7 @@ Building AI course project
 
 # DiscoverAI
 
-##Summary
+#Summary
 DiscoverAI is a mobile application designed to enhance the travel experience by alerting users to nearby cultural and historical landmarks. Leveraging AI and geolocation technology, it provides real-time notifications and rich, educational content about each site within a 0-500m radius. Tailored for avid travelers and cultural enthusiasts, DiscoverAI turns every journey into an immersive learning adventure. It gatheres insight from both the IoT but also members with premium access can upload and geotagg their own locations of interest which will be shown to the public after a review from the owner of the application. 
 
 ##Data- and AI-technique
